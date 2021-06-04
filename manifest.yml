@@ -1,4 +1,4 @@
 application:
--name:php-hello world
-memory:128M
-buildpack: php_buildpack
+- name:php-hello world
+  memory:128M
+  buildpack: php_buildpack
