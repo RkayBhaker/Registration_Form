@@ -1,5 +1,4 @@
----
 applications:
- - name: RegForm
-   memory: 256M
-   buildpack: php_buildpack
+- name: Registration_Form
+  memory: 128M
+  buildpack: php_buildpack
