@@ -1,4 +1,5 @@
-application:
-- name:php-hello world
-  memory:128M
-  buildpack: php_buildpack
+---
+applications:
+ - name: RegForm
+   memory: 256M
+   buildpack: php_buildpack
